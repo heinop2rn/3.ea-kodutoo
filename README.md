@@ -1,20 +1,7 @@
-# 3. kodutöö – Chrome extension
+# Chrome Nail Extension - Heino Pärn, Mart Ambur
 
-Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetud. Soovi korral võib ka teha Firefox'ile.
+Googledasime Chrome Extensione ja tuli YouTube õpetusvideo, kuidas endale panna kroomitud küünepikendused, sealt sündis idee, et võiks teha Extensioni, mis muudab kõik pildid lehel kroomitud geelküünteks.
 
-**Töö on soovitatav teha kahekesi!**
+Seega extension vahetab lehel kõik pildid extensioni nupule vajutades ära kroomitud geelküünte pildiga.
 
-## Nõuded
-
-1. Kirjelda README.md failis, mida rakendus teeb. 
-1. Rakendus peab tegema külastatava veebilehe/veebirakenduse kas ilusamaks, mugavamaks või huvitamaks.
-1. Peab oleama piisavalt keerukas (midagi enemat kui tunnis tegmine)
-1. Ole loominguline, näiteks põnevad asjad millele saab brauser ligi, kuid nendega on keeruline toimetada.
-    - bluetooth, sh pulsivöö [dokumentatsioon](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
-    - mikrofon [näide](https://www.talater.com/annyang/)
-    - webcam [näide](https://revealjs.herokuapp.com/#/0/1)
-
-## Täiendav abimaterjal
-
-* Chrome extension API [JavaScript APIs](https://developer.chrome.com/extensions/api_index/)
-* Chrome extension'ite näited [Sample Extensions](https://developer.chrome.com/extensions/samples/)
+![alt text](https://raw.githubusercontent.com/heinop2rn/3.ea-kodutoo/master/Screenshot.jpg)
